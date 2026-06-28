@@ -115,7 +115,7 @@ Shows the relationships between numerical variables such as Age, Height, Weight,
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Yahvi Chaudhary**
 ---
