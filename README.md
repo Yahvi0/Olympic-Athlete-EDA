@@ -92,6 +92,9 @@ Detects outliers and visualizes the spread of athletes' weights.
 ### Correlation Heatmap
 Shows the relationships between numerical variables such as Age, Height, Weight, and Year.
 
+### Tested using an independent t-test
+Shows how correlated the two data were.
+
 ---
 
 ## Key Insights
